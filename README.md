@@ -29,7 +29,13 @@
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1037" height="583" alt="image" src="https://github.com/user-attachments/assets/92cea31c-4717-4be2-93d4-230772ee435e" />
 
+
+---
+DESIGN AND CALCULATION
+![WhatsApp Image 2025-11-23 at 19 09 44_98578d45](https://github.com/user-attachments/assets/48c159cd-cd25-41bf-9e57-1aea59e02c49)
+![WhatsApp Image 2025-11-23 at 19 09 45_12b13718](https://github.com/user-attachments/assets/436c6ca9-0956-4d0e-b4d7-a3ea8950405d)
 
 ---
 ##RESULT:
