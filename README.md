@@ -22,6 +22,10 @@
 
 <img width="686" height="331" alt="image" src="https://github.com/user-attachments/assets/f0adf75a-70b8-4663-8af0-1166ae30ee72" />
 
+
+![WhatsApp Image 2025-12-04 at 12 28 04_4726ac3d](https://github.com/user-attachments/assets/49f606d5-5253-4126-b79f-84c5381eff73)
+
+
 ---
 ## MODEL GRAPH
 <img width="488" height="427" alt="image" src="https://github.com/user-attachments/assets/9c8388ab-fc82-4d9a-86ea-1327b148596b" />
